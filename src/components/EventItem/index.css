@@ -1,0 +1,26 @@
+.event-image {
+  height: 120px;
+  width: 230px;
+}
+
+.event-name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin: 0px;
+  margin-bottom: 5px;
+  color: #f8fafc;
+  font-weight: bold;
+}
+
+.event-location {
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin: 0px;
+  margin-bottom: 20px;
+  color: #f8fafc;
+}
+
+.event-item-container {
+  margin-right: 30px;
+  margin-bottom: 20px;
+}

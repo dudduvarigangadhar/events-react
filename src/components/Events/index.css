@@ -1,0 +1,24 @@
+.events-main-container {
+  background-color: #ffffff;
+  height: 100vh;
+  margin: 0px;
+}
+
+.events-list-container {
+  background-color: #475569;
+  width: 600px;
+  height: 100vh;
+  /* margin: 0px; */
+}
+
+.events-flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.event-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 37px;
+}
